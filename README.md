@@ -7,7 +7,7 @@ Git Bash
 
 ### Mit winget
 
-winget install git
+> winget install git
 
 ## On Linux
 
