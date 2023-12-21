@@ -25,3 +25,8 @@ Credental Manager is included in Git Bash
 ### Linux
 
 [Link to Github Projece](https://github.com/git-ecosystem/git-credential-manager)
+
+
+## Workflow
+
+The Workflow:
