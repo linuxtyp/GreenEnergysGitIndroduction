@@ -15,6 +15,7 @@ Git Bash
 
 ## Credential Manager
 
+It is not necessar but practical.
 It aims to provide a consistent and secure authentication experience, including multi-factor auth, to every major source control hosting service and platform.
 
 ### Windows
