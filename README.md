@@ -31,7 +31,7 @@ Credental Manager is included in Git Bash
 ## Workflow
 
 The Workflow:
-
+Change, Add, Commit
 
 ## Useful Applications
 
