@@ -13,6 +13,10 @@ Git Bash
 
 > sudo apt install git
 
+If no login Promt:
+
+> git credential-manager github login
+
 ## Credential Manager
 
 It is not necessar but practical.
