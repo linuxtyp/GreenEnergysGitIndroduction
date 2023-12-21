@@ -27,6 +27,18 @@ Credental Manager is included in Git Bash
 [Link to Github Projece](https://github.com/git-ecosystem/git-credential-manager)
 
 
+
 ## Workflow
 
 The Workflow:
+
+
+## Useful Applications
+
+1. Sublime Merge
+
+2. Visual Sutdio
+
+ - Git Graph
+ - Git Lense
+
