@@ -5,7 +5,7 @@
 Git Bash
 [Guide](https://phoenixnap.com/kb/how-to-install-git-windows)
 
-### Mit winget
+### On Windows with winget
 
 > winget install git
 
