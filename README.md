@@ -31,7 +31,7 @@ Credental Manager is included in Git Bash
 ## Workflow
 
 The Workflow:
-Change, Add, Commit
+Check Branch,Change, Add, Commit, Push, Compare, Merge, Switch local to main, pull origin, switch to branch, restart
 
 ## Useful Applications
 
