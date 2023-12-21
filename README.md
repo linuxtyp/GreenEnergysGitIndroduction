@@ -37,8 +37,11 @@ Change, Add, Commit
 
 1. Sublime Merge
 
-2. Visual Sutdio
+2. Visual Studio
 
  - Git Graph
  - Git Lense
 
+3. Github
+
+4. CadLab
